@@ -1,2 +1,2 @@
 # Validation-Set-Creator
-Creates a validation set from a training dataset
+Creates validation set from a training dataset
