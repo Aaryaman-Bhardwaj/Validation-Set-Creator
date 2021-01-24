@@ -5,3 +5,5 @@ Often in ML challenges and many online datasets contains only training sets. Thi
 Inside the valdiation folder will be the validation.csv file containing the tags for the validation dataset.
 
 After successful execution, a completion message will be printed and a new folder named "validation" will be created in the same directory as the one containing the training images.
+
+Note- This script currently only copies the needful data from the train.csv file. The tags data of the images transferred to validation dataset might still present in the train.csv file.
