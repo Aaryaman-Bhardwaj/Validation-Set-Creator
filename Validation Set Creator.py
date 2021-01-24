@@ -10,7 +10,7 @@ import random
 import shutil
 
 validation_set_size= 5 #in percentage of the training set
-data_src="/home/aaryaman_bhardwaj/Documents/ML/yo/" #training set directory from which you want to create the validation set
+data_src="" #complete path of the training set directory from which you want to create the validation set
 
 os.chdir(data_src)
 
