@@ -1,5 +1,5 @@
 # Validation-Set-Creator
-Creates validation set from a training dataset
+Creates validation set from a training dataset(for image datasets)
 
 Often in ML challenges and many online datasets contains only training sets. This python script creates a validation set out of the training set by selecting random images from the training set and moving them to a new folder which is named "validation" by default.
 
